@@ -1,0 +1,7 @@
+2026-11-02 09:15:01 INFO  OrderService  Order 1001 created
+2026-11-02 09:15:07 WARN  PaymentService  Response slow: 3200ms
+2026-11-02 09:15:12 ERROR PaymentService  Timeout calling gateway
+2026-11-02 09:15:20 INFO  OrderService  Order 1002 created
+2026-11-02 09:15:33 ERROR DBService  Connection pool exhausted
+2026-11-02 09:15:41 ERROR PaymentService  Timeout calling gateway
+2026-11-02 09:15:50 INFO  UserService  Login success user=hari
